@@ -1,0 +1,55 @@
+Time,Customer,Phone,Provider,Result,Message
+2026-11-18 19:02:11,SAMPATH,94711936763,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : SAMPATH
+Outstanding: Rs. 0.00
+Unloaded Qty: 75"
+2026-11-18 19:02:11,SADARANA,,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : SADARANA
+Outstanding: Rs. 0.00
+Unloaded Qty: 50"
+2026-11-18 19:02:11,NIMSILU,,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : NIMSILU
+Outstanding: Rs. 0.00
+Unloaded Qty: 150"
+2026-11-18 19:02:11,CENTRAL,,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : CENTRAL
+Outstanding: Rs. 0.00
+Unloaded Qty: 280"
+2026-11-18 19:02:11,SANDAMALI,,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : SANDAMALI
+Outstanding: Rs. 0.00
+Unloaded Qty: 25"
+2026-11-18 19:02:11,WERASINGHA,,Dry run (preview only – nothing is sent),dry run (not sent),"Customer Name : WERASINGHA
+Outstanding: Rs. 0.00
+Unloaded Qty: 20"
+2026-11-18 19:05:04,SAMPATH,94711936763,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : SAMPATH
+Outstanding: Rs. 0.00
+Unloaded Qty: 75"
+2026-11-18 19:05:04,SADARANA,,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.', 'The to ","Customer Name : SADARANA
+Outstanding: Rs. 0.00
+Unloaded Qty: 50"
+2026-11-18 19:05:05,NIMSILU,,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.', 'The to ","Customer Name : NIMSILU
+Outstanding: Rs. 0.00
+Unloaded Qty: 150"
+2026-11-18 19:05:05,CENTRAL,,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.', 'The to ","Customer Name : CENTRAL
+Outstanding: Rs. 0.00
+Unloaded Qty: 280"
+2026-11-18 19:05:06,SANDAMALI,,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.', 'The to ","Customer Name : SANDAMALI
+Outstanding: Rs. 0.00
+Unloaded Qty: 25"
+2026-11-18 19:05:06,WERASINGHA,,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.', 'The to ","Customer Name : WERASINGHA
+Outstanding: Rs. 0.00
+Unloaded Qty: 20"
+2026-11-18 19:07:29,SAMPATH,94711936763,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : SAMPATH
+Outstanding: Rs. 0.00
+Unloaded Qty: 75"
+2026-11-18 19:07:30,SADARANA,94752795164,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : SADARANA
+Outstanding: Rs. 0.00
+Unloaded Qty: 50"
+2026-11-18 19:07:30,NIMSILU,94752795164,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : NIMSILU
+Outstanding: Rs. 0.00
+Unloaded Qty: 150"
+2026-11-18 19:07:31,CENTRAL,94752795164,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : CENTRAL
+Outstanding: Rs. 0.00
+Unloaded Qty: 280"
+2026-11-18 19:07:31,SANDAMALI,94711936763,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : SANDAMALI
+Outstanding: Rs. 0.00
+Unloaded Qty: 25"
+2026-11-18 19:07:31,WERASINGHA,94711936763,Notify.lk,"{'status': 'error', 'errors': ['The sender id field must not be greater than 11 characters.', 'Sender ID is not registered to your account.']}","Customer Name : WERASINGHA
+Outstanding: Rs. 0.00
+Unloaded Qty: 20"
